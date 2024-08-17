@@ -1,6 +1,7 @@
 <?php
 
-namespace App\Infrastructure;
+namespace App\Infrastructure\Persistence;
+use App\Domain\TweetRepository;
 
 use App\Domain\Tweet;
 

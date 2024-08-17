@@ -15,4 +15,8 @@ final class Tweet
     {
         return $this->text;
     }
+
+    public function toUpperCase(): string {
+        return strtoupper($this->text);
+    }
 }
