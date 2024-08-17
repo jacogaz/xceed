@@ -1,3 +1,11 @@
+# How to run it
+
+- make install
+- make up
+- go to -> http://127.0.0.1:8000/tweets/johndoe?limit=10
+
+- make test -> for running test
+
 # Xceed Backend Test 
 
 ## Description
